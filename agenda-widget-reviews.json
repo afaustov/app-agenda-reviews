@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-27T00:41:16.845Z",
+  "updatedAt": "2026-08-29T02:12:40.812Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "i needed something that will show me my schedule on my desktop. i also love the clean aesthetic.",
+      "reviewerName": "Shaina",
+      "market": "Philippines",
+      "date": "2026-08-27"
+    },
     {
       "rating": 5,
       "text": "Was looking for a way to display upcoming calendar events. This widget looks great, fits my needs, and is easy to use.Could maybe have a calendar view without opening the browser.",
