@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-03T02:01:01.861Z",
+  "updatedAt": "2026-09-03T23:03:58.604Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "This is EXACTLY what I needed. Integration with google calendar and tasks. Seamless and nice style with little bugs so far. After a couple of months using this for school, it helped my productivity much more. I can plan out my day and also see my google tasks as well. The devs are very responsive to emails and feature requests and the lifetime access to this app and its updates are well worth the price. Excited for what's to come!",
+      "reviewerName": "Kalā",
+      "market": "United States",
+      "date": "2026-09-02"
+    },
     {
       "rating": 5,
       "text": "App has so many adjustable features while still maintaining a sleek look. Buttons are easy to figure out and the colors look the same as they do in google calendar!! Has the option to pin on top thanks to the app developer making my request happen. It's like having a sticky note that updates my schedule automatically so I won't forget things. Definitely recommend!",
@@ -80,17 +87,17 @@
     },
     {
       "rating": 5,
-      "text": "This is EXACTLY what I needed. Integration with google calendar and tasks. Seamless and nice style with little bugs so far. PLEASE add more options for customization like corner radius, background solid colorations, and transparency sliders. Maybe even font integration and customization in the future? Excited for what's to come.",
-      "reviewerName": "Kalā",
-      "market": "United States",
-      "date": "2026-04-28"
-    },
-    {
-      "rating": 5,
       "text": "I've always been frustrated with Outlook's ToDo Bar Calendar because it can't display my Google Workspace calendar (Outlook only displays your default \"local\" calendar). This widget does and it has earned a permanent spot on my desktop. The developer has been very responsive with feature suggestions!",
       "reviewerName": "Jon",
       "market": "United States",
       "date": "2026-04-23"
+    },
+    {
+      "rating": 5,
+      "text": "Hübsch und unkompliziert",
+      "reviewerName": "Meike",
+      "market": "Germany",
+      "date": "2026-04-15"
     },
     {
       "rating": 5,
