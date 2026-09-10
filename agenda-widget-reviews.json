@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-10T02:02:14.203Z",
+  "updatedAt": "2026-09-10T22:58:44.258Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "This widget is really very helpful for me. It stays on my desktop and I can directly see my calendar events, updates also very perfectly working....",
+      "reviewerName": "Jaya Krishna Vamsi",
+      "market": "India",
+      "date": "2026-09-10"
+    },
     {
       "rating": 5,
       "text": "This is EXACTLY what I needed. Integration with google calendar and tasks. Seamless and nice style with little bugs so far. After a couple of months using this for school, it helped my productivity much more. I can plan out my day and also see my google tasks as well. The devs are very responsive to emails and feature requests and the lifetime access to this app and its updates are well worth the price. Excited for what's to come!",
