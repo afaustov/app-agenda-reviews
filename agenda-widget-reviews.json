@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-26T08:30:01.942Z",
+  "updatedAt": "2026-09-27T09:04:41.120Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "Nice widget that does what it promises. I find it very useful to have my agenda displayed so well and cleanly. The customer support is very fast and helpful..",
+      "reviewerName": "James",
+      "market": "Canada",
+      "date": "2026-09-26"
+    },
     {
       "rating": 5,
       "text": "Works great with Google Calendar, and I really like being able to complete tasks directly from the widget.I also appreciate that it’s available as a lifetime license rather than a subscription.I recently requested three improvements from the developer, and all of them were implemented very quickly.",
