@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T09:04:41.120Z",
+  "updatedAt": "2026-10-02T09:25:49.418Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "Werkt goed",
+      "reviewerName": "Daniëlle",
+      "market": "Netherlands",
+      "date": "2026-09-28"
+    },
     {
       "rating": 5,
       "text": "Nice widget that does what it promises. I find it very useful to have my agenda displayed so well and cleanly. The customer support is very fast and helpful..",
