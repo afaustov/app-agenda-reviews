@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T09:25:49.418Z",
+  "updatedAt": "2026-10-03T09:01:43.430Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "Adesso funziona molto bene. Avere il calendario sempre sul desktop senza che sia invadente è un'ottima utilità",
+      "reviewerName": "IGOR",
+      "market": "Italy",
+      "date": "2026-10-02"
+    },
     {
       "rating": 5,
       "text": "Werkt goed",
