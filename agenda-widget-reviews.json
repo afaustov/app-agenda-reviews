@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-01T12:03:33.250Z",
+  "updatedAt": "2026-11-08T12:14:00.918Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "Aplicativo muito útil, fácil de configurar, ótimo custo-benefício.",
+      "reviewerName": "Natã",
+      "market": "Brazil",
+      "date": "2026-11-06"
+    },
+    {
+      "rating": 5,
+      "text": "Its best planner so far the synchronization is the best I can say, you can udpdate your boss remotely",
+      "reviewerName": "DO",
+      "market": "India",
+      "date": "2026-11-05"
+    },
+    {
+      "rating": 5,
+      "text": "Awesome app, works great.",
+      "reviewerName": "Gary",
+      "market": "United States",
+      "date": "2026-11-02"
+    },
     {
       "rating": 5,
       "text": "Agenda Widget is a beautiful and practical way to keep Google Calendar and Google Tasks right on my Windows desktop. It's customizable, easy to use, and makes everyday organization much more convenient.What really impressed me was the developer's support. I reported two minor bugs, received a friendly and detailed response one moment later, and both issues were fixed in an update in less than a day. The developer even followed up personally.Excellent app, excellent support. Highly recommended",
